@@ -34,6 +34,10 @@ Aplikasi mampu menerima input dari pengguna, melakukan validasi data, memproses 
 ## Penjelasan Setiap File Program
 1.  mahasiswa.py (Class Data)
 
+
+<img width="955" height="504" alt="mahasiswa" src="https://github.com/user-attachments/assets/8d774dda-0f82-4e20-978b-7ff601aae790" />
+
+
 File ini berfungsi sebagai class data yang menyimpan informasi mahasiswa.
 
 Penjelasan:
@@ -60,6 +64,10 @@ Memudahkan pengelolaan data jika program dikembangkan lebih lanjut
 
 2. proses.py (Class Process)
 
+
+<img width="955" height="504" alt="proses" src="https://github.com/user-attachments/assets/564229eb-5e6e-4473-8751-e0e86fad2602" />
+
+
 File ini berfungsi sebagai class proses untuk mengolah data mahasiswa.
 
 Penjelasan:
@@ -84,6 +92,11 @@ Memudahkan perubahan aturan penilaian tanpa mengubah file lain
 
 3. tampilan.py (Class View)
 
+
+<img width="955" height="504" alt="tampilan" src="https://github.com/user-attachments/assets/8c87d3c6-52d7-4ed4-a946-f0b1d06ce46e" />
+
+
+
 File ini berfungsi sebagai class view yang mengatur tampilan output ke pengguna.
 
 Penjelasan:
@@ -107,6 +120,11 @@ Memisahkan tampilan dari proses
 Memudahkan pengubahan tampilan tanpa mengganggu logika program
 
 4. main.py (Program Utama)
+
+
+<img width="955" height="504" alt="main" src="https://github.com/user-attachments/assets/2ea512d0-75f7-4168-a4d6-48ea2cef27b7" />
+
+
 
 File ini merupakan inti program yang menghubungkan seluruh class.
 
@@ -141,3 +159,7 @@ Menjadi penghubung antara data, proses, dan tampilan
 Menghindari penulisan kode yang bercampur dalam satu file
 
 ## Output Program
+
+
+<img width="955" height="504" alt="output" src="https://github.com/user-attachments/assets/18ed7562-bca0-4b04-867c-7c1403ed2a93" />
+
